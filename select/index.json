@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "base_track": "Drowning Nightmare",
+  "base_artist": "Yvnlazy",
+  "createdAt": "2026-03-27T10:19:40.750715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drowning Nightmare - Remix",
+      "artist": "nyamura",
+      "has_synced": true,
+      "path": "select/01_Drowning_Nightmare_-_Remix_nyamura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drowning in the Sound",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_Drowning_in_the_Sound_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drowning",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/03_Drowning_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drowning In Champagne",
+      "artist": "Yellow Claw feat. Maty Noyes",
+      "has_synced": true,
+      "path": "select/04_Drowning_In_Champagne_Yellow_Claw_feat._Maty_Noyes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drowning in Champagne (feat. Maty Noyes)",
+      "artist": "Yellow Claw",
+      "has_synced": true,
+      "path": "select/05_Drowning_in_Champagne_(feat._Maty_Noyes)_Yellow_Claw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drowning In Ecstasy",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/06_Drowning_In_Ecstasy_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lifeguard Sleeping, Girl Drowning",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/07_Lifeguard_Sleeping,_Girl_Drowning_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drowning In The Sea Of Love",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/08_Drowning_In_The_Sea_Of_Love_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drowning By Numbers",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/09_Drowning_By_Numbers_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drowning (feat. Kodak Black)",
+      "artist": "A Boogie Wit da Hoodie feat. Kodak Black",
+      "has_synced": true,
+      "path": "select/10_Drowning_(feat._Kodak_Black)_A_Boogie_Wit_da_Hoodie_feat._Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drowning (feat. Kodak Black)",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/11_Drowning_(feat._Kodak_Black)_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drowning Head First",
+      "artist": "Adam Green",
+      "has_synced": false,
+      "path": "select/12_Drowning_Head_First_Adam_Green.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drowning In My Tears",
+      "artist": "Sylver",
+      "has_synced": false,
+      "path": "select/13_Drowning_In_My_Tears_Sylver.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drowning",
+      "artist": "Sixth June",
+      "has_synced": false,
+      "path": "select/14_Drowning_Sixth_June.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drowning",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/15_Drowning_BANKS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drowning Nightmare",
+      "artist": "Yvnlazy, Cxndy",
+      "has_synced": false,
+      "path": "select/pl_01_Drowning_Nightmare_Yvnlazy,_Cxndy.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Drowning Nightmare",
+      "artist": "Yvnlazy",
+      "has_synced": true,
+      "path": "select/localdb_01_Drowning_Nightmare_Yvnlazy.lrc",
+      "repo_name": "ANl8mjOe8xQ"
+    }
+  ]
+}
